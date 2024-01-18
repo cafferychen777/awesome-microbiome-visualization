@@ -6,6 +6,19 @@ Welcome to the *Awesome-Microbiome-Visualization* repository! This is a carefull
 
 We're excited to bring you a diverse range of visualization tools and resources. The content of this repository is currently under development and will be available soon. Stay tuned!
 
+## Featured Tools
+
+In our ongoing efforts to present the best resources, we are pleased to introduce MicrobiomeStat, a robust and user-friendly tool for microbiome data analysis.
+
+### MicrobiomeStat
+
+- **Website:** [MicrobiomeStat](https://www.microbiomestat.wiki/)
+- **Description:** MicrobiomeStat offers a comprehensive suite of statistical tools tailored for microbiome data analysis. It provides an intuitive interface for data preprocessing, statistical analysis, and visualization of microbiome datasets. Designed for both beginners and advanced users, MicrobiomeStat makes complex statistical concepts accessible and actionable.
+- **Key Features:**
+  - Easy integration with popular R packages
+  - Wide range of statistical analysis options
+  - User-friendly guides and tutorials
+
 ## Coming Soon!
 
 Our team is working hard to compile and create a comprehensive and user-friendly platform for microbiome visualization. Expect to find:
